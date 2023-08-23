@@ -33,7 +33,7 @@ If you find a bug or want to suggest an improvement to this project, feel free t
 ## ✨ License
 This project is licensed under the MIT license. See the LICENSE file for more details.
 
-### ❤  Sponsor me if you find the work valuable
+## ❤  Sponsor me if you find the work valuable
 
 <a href="https://www.buymeacoffee.com/haythamasalama" target="_blank">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
