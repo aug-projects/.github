@@ -6,7 +6,7 @@ A comprehensive compilation of course materials, projects, and resources tailore
 
 Dive into a diverse range of repositories encompassing programming languages, web development, design patterns, databases, quality assurance, and more.
 
-## 📌Courses:
+## 📌 Courses:
 
 - [C Langauge](https://github.com/aug-projects/cLanguage)
 - [Java](https://github.com/aug-projects/programmingJava)
@@ -32,3 +32,9 @@ If you find a bug or want to suggest an improvement to this project, feel free t
 
 ## ✨ License
 This project is licensed under the MIT license. See the LICENSE file for more details.
+
+### ❤  Sponsor me if you find the work valuable
+
+<a href="https://www.buymeacoffee.com/haythamasalama" target="_blank">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+</a>
