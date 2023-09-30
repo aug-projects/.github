@@ -6,6 +6,8 @@ A comprehensive compilation of course materials, projects, and resources tailore
 
 Dive into a diverse range of repositories encompassing programming languages, web development, design patterns, databases, quality assurance, and more.
 
+> Note: This organization is not officially managed by Al-Azhar University; it operates purely as an open source for projects and resources.
+ 
 ## 📌 Courses:
 
 - [C Langauge](https://github.com/aug-projects/cLanguage)
