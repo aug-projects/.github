@@ -18,6 +18,7 @@ Dive into a diverse range of repositories encompassing programming languages, we
 - [Java Graphics - Example](https://github.com/aug-projects/javaGraphics)
 - [Java Graphics - Tasks](https://github.com/aug-projects/javaGraphicsTasks)
 - [Social & Professional Issues](https://github.com/aug-projects/SocialProfessionalIssues)
+- [Training Report](https://github.com/aug-projects/trainingReport)
 - [Design Pattern - Java](https://github.com/aug-projects/javaDesignPattern)
 - [Design Compiler- Java](https://github.com/aug-projects/javaCompiler)
 - [Quality Assurance - Tasks](https://github.com/aug-projects/QATasks)
